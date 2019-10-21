@@ -1,22 +1,22 @@
 ﻿###学习笔记
 既然不能做到过目不忘，索性把看到的记下来，做笔记的好处就是下次碰到问题时直接查看经过自己总结的笔记有事半功倍的效果，因此也养成了学习一点就记一点的习惯。以前喜欢用Evernote来记录，现在用GitHub。  
 
-####Python
+####Python  
 5. [collections学习笔记](./note/python/collections.md)  
 5. [函数式编程------序列处理函数](./note/python/function_programming_of_function_processing_functions.md)  
 6. [协程](./note/python/coroutine.md)  
 7. [装饰器](./note/python/decorators.md)  
 10. [异常](./note/python/exception.md)  
 11. [yield 生成器](./note/python/generator.md)  
-12. [迭代器与生成器的区别](./note/python/iterator_generator.md)  
-13. [python json](./note/python/json.md)  
+12. [迭代器与生成器的区别](./note/python/iterator_generator.md)    
+13. [python json](./note/python/json.md)    
 15. [Python虚拟环境：virtualenv](./note/python/virtualenv.md)  
-16. [Python实用技巧](./note/python/useful_features.md)
-17. [python测试](./note/python/testing.md)
-18. [gevent简介](./note/python/gevent.md)
-19. [Django应用部署(nginx、gunicorn、virtualenv、supervisor)](.\note\python\deploy_django_with_nginx.md)
-20. [理解WSGI](./note/python/wsgi.md)
-21. [Flask之Hello world详解](./note/python/flask.md)
+16. [Python实用技巧](./note/python/useful_features.md)  
+17. [python测试](./note/python/testing.md)  
+18. [gevent简介](./note/python/gevent.md)  
+19. [Django应用部署(nginx、gunicorn、virtualenv、supervisor)](.\note\python\deploy_django_with_nginx.md)  
+20. [理解WSGI](./note/python/wsgi.md)  
+21. [Flask之Hello world详解](./note/python/flask.md)  
 
 #####Django
 1. [Django测试指南](./note/python/a_guide_to_testing_in_django.md)
